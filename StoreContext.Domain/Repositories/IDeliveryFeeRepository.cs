@@ -1,4 +1,5 @@
 ﻿namespace StoreContext.Domain.Repositories
+.Interfaces
 {
     public interface IDeliveryFeeRepository
     {

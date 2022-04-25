@@ -1,6 +1,6 @@
 ﻿using StoreContext.Domain.Entities;
 
-namespace StoreContext.Domain.Repositories
+namespace StoreContext.Domain.Repositories.Interfaces
 {
     public interface IOrderRepository
     {
