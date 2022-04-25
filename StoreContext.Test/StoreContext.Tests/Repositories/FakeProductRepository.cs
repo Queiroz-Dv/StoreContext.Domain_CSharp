@@ -17,7 +17,7 @@ namespace StoreContext.Tests.Repositories
             products.Add(new Product("Produto 4", 10, false));
             products.Add(new Product("Produto 5", 10, false));
 
-            return products
+            return products;
         }
     }
 }
