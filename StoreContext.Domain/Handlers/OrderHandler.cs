@@ -4,6 +4,7 @@ using StoreContext.Domain.Commands.Interfaces;
 using StoreContext.Domain.Entities;
 using StoreContext.Domain.Handlers.Interfaces;
 using StoreContext.Domain.Repositories.Interfaces;
+using StoreContext.Domain.Utils;
 using System.Linq;
 
 namespace StoreContext.Domain.Handlers
